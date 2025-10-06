@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "Coral Tide",
+  "version": "1.0.2",
+  "author": "Ryan Stubbs",
+  "description": "A modern light Thunderbird theme mixing a pastel navy blue and hot coral.",
+  "theme": {
+    "colors": {
+      "frame": "#e5636f",
+      "frame_inactive": "#eb8a93",
+      "tab_background_text": "#fff",
+      "toolbar": "#475684",
+      "tab_text": "#fff",
+      "toolbar_text": "#ebecf1",
+      "toolbar_field": "#ebecf1",
+      "toolbar_field_text": "#19223b",
+      "toolbar_top_separator": "#5b6991",
+      "toolbar_bottom_separator": "#5b6991",
+      "toolbar_vertical_separator": "#5b6991",
+
+      "toolbar_field_highlight": "#5b6991",
+      "toolbar_field_highlight_text": "#0f1423",
+      "toolbar_field_border": "#324376",
+      "toolbar_field_border_focus": "#324376",
+      "toolbar_field_focus": "#d6d9e4",
+
+      "popup": "#ebecf1",
+      "popup_text": "#5b6991",
+      "popup_border": "#5b6991",
+      "tab_loading": "#f0f0f0",
+      "tab_line": "#e5636f",
+      "tab_background_separator": "#cccccc",
+
+      "sidebar": "#c2c7d6",
+      "sidebar_border": "#adb4c8",
+      "sidebar_highlight": "#324376",
+      "sidebar_highlight_border": "#324376",
+      "sidebar_highlight_text": "#ffffff",
+      "sidebar_text": "#324376"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{78b81aa8-71bb-4902-b996-c91798345d53}",
+      "strict_min_version": "100.0"
+    }
+  }
+}
